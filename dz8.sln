@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dz8", "dz8\dz8.csproj", "{640AFF41-14B9-4217-ADB8-53D99F2CB41F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMiddlewareLibrary", "MyMiddlewareLibrary\MyMiddlewareLibrary.csproj", "{188BBD13-2B5A-4A25-A95A-347499FE8E3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{640AFF41-14B9-4217-ADB8-53D99F2CB41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640AFF41-14B9-4217-ADB8-53D99F2CB41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640AFF41-14B9-4217-ADB8-53D99F2CB41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640AFF41-14B9-4217-ADB8-53D99F2CB41F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{188BBD13-2B5A-4A25-A95A-347499FE8E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{188BBD13-2B5A-4A25-A95A-347499FE8E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{188BBD13-2B5A-4A25-A95A-347499FE8E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{188BBD13-2B5A-4A25-A95A-347499FE8E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1501C7D3-8257-4B1D-86D0-1E7D2523DEE7}
+	EndGlobalSection
+EndGlobal
